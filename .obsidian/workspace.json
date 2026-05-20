@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1db0d39450f76006",
+        "id": "79f3a3bf599657a6",
         "type": "tabs",
         "children": [
           {
-            "id": "dfbb3fd3af802304",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          }
-        ]
-      },
-      {
-        "id": "133227197ef28027",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa40f5e1e9d0728b",
+            "id": "ae84d8b48f9b2c0a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -193,8 +177,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "12822989ee5eaf77",
+  "active": "ae84d8b48f9b2c0a",
   "lastOpenFiles": [
+    "README.md",
     "Добро пожаловать.md"
   ]
 }
